@@ -2,7 +2,6 @@
 import os
 import telebot
 import praw
-import random
 
 API = 'your-telegram-api' #You can obatin this by talking with @BotFather
 
